@@ -1,0 +1,20 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+}
+
+.weather-result-container {
+  display: flex;
+}
+
+.weather-result-container p {
+  display: flex;
+  align-items: center;
+}
+
+.form-ul {
+  list-style: none;
+}
